@@ -1,0 +1,223 @@
+Question 1
+1 point possible (graded)
+Which palette should you choose to import a dataset in SPSS Modeler?.
+
+Graphs
+
+Record Ops
+
+Field Ops
+
+Sources
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 2
+1 point possible (graded)
+An insurance company has historical data on claims with a fraction of claims flagged as fraudulent. The company discovered that fraud is related to number of claims within a one-year period, claim amount, and the gender and age of the policy holder. This is an example of:
+
+Classification
+
+Segmentation
+
+Association
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 3
+1 point possible (graded)
+How many stages are present in CRISP-DM?
+
+5
+
+6
+
+7
+
+8
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 4
+1 point possible (graded)
+What is the measurement level of a field named SEASON that stores the values 1, 2, 3, and 4, representing spring, summer, fall, and winter respectively?
+
+Flag
+
+Nominal
+
+Scale
+
+Continuous
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 5
+1 point possible (graded)
+You have a dataset with negative values for the column “age”. You would like to discard the negative values. Which node can accomplish this task?
+
+Type
+
+Reclassify
+
+Binning
+
+Append
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 6
+1 point possible (graded)
+For a continuous field, the Data Audit node produces:
+
+Maximum and Minimum values
+
+Distribution graph
+
+Number of unique categories
+
+None of the above
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 7
+1 point possible (graded)
+Which of the following is the correct statement? Choose the most suitable answer.
+
+The Distinct node can be used to remove duplicate fields.
+
+The Distinct node can be used to remove duplicate records.
+
+The Distinct node can be used to retain duplicate fields.
+
+The Distinct node can be used to retain duplicate records.
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 8
+1 point possible (graded)
+Which statement is true regarding the data-mining process? Choose the most suitable answer.
+
+Data Mining is a one time process
+
+Predictors in a model should occur after the target field.
+
+No data-mining algorithm can compensate for bad data preparation
+
+Research methodology is unimportant to the data-mining effort.
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 9
+1 point possible (graded)
+Which type of records are passed through Full outer join?
+
+Records from all datasets are passed through
+
+Only records from leading dataset are passed through
+
+Only records that have matching values in both datasets are passed thorugh
+
+Only records from the trailing dataset are passed through
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 10
+1 point possible (graded)
+In which instance would you select correlation?
+
+when examining the relationship between two categorical fields
+
+when examining a categorical field
+
+when comparing a categorical field to a continuous field
+
+when examining the relationship between two continuous fields
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 11
+1 point possible (graded)
+Which option below has Association modeling objective?
+
+People who change jobs every six months are more likely to default on an automobile loan.
+
+A person's age is a determining factor to predict whether a Website visitor will click on an ad for something interesting on Facebook.
+
+Income is a determining factor for whether a family takes a summer vacation to a foreign country or resort area.
+
+Cell phone users who subscribe to plan A will likely purchase the newest cell phone as soon as it is released.
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 12
+1 point possible (graded)
+The auditor of a credit bureau wants to verify that credit scores are between 100 and 800. Which node will accomplish this task?
+
+Evaluation node
+
+Data Audit node
+
+Analysis node
+
+Derive node
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 13
+1 point possible (graded)
+In what palette is the Append node located?
+
+Record Ops
+
+Output
+
+Source
+
+Field Ops
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 14
+1 point possible (graded)
+What is a distinguishing characteristic that separates the Traditional Statistical Model from other models?
+
+In the Traditional Statistical Model, all included records are classified into a great number of pre-clusters.
+
+The Traditional Statistical Model is only relevant to a target of a particular measurement level.
+
+The Traditional Statistical Model has certain underlying assumptions, such as the assumption of certain distributions and relationships.
+
+The Traditional Statistical Model derives a set of rules that describe distinct segments within the data in relation to the target.
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+Question 15
+1 point possible (graded)
+A product recommendation system uses which type of model? (For example, if a person buys bread, he is also likely to buy butter.)
+
+Segmentation model
+
+Classification model
+
+Anomaly model
+
+Association model
+unanswered
+SaveSave your answer
+Submit
+You have used 0 of 2 attempts
